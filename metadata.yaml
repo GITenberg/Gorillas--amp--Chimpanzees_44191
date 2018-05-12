@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36398
     wikipedia: http://de.wikipedia.org/wiki/Richard_Lynch_Garner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44191#Gorillas--amp--Chimpanzees
 gutenberg_issued: '2013-11-16'
 gutenberg_type: Text
 identifiers:
